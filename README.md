@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 👩‍💻 My name is Chiamaka, previously a lawyer now tinkering with DevOps, Cloud and SRE
-- 🌱 I’m currently learning Python and Microservices Architecture
+- 👩‍💻 My name is Chiamaka, previously a lawyer now tinkering with DevOps, Cloud and SRE.
+- 🌱 I’m currently learning Python, Golang and Microservices Architecture
+- ❤️ I love working on Kubernetes 
 - 😄 Nice to meet you
 <!--
 **ChiamakaObitube/chiamakaobitube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
